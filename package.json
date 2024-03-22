@@ -1,0 +1,19 @@
+{
+  "name": "key-private",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "@grammyjs/emoji": "^1.2.0",
+    "@solana/spl-token": "^0.4.1",
+    "@solana/web3.js": "^1.91.1",
+    "bs58": "^5.0.0",
+    "grammy": "^1.21.1"
+  }
+}
